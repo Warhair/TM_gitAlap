@@ -1,4 +1,19 @@
 body{
-    background-color: aquamarine;
-    color: crimson;
+    background-image: url(kepek/hatterem3.jpg);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.torol{
+    clear: both;
+}
+.bal img{
+    float: left;
+}
+.job img{
+    float: right;
+}
+h1{
+    text-align: left;
 }
